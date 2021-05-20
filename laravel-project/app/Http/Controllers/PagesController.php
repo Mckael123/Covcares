@@ -39,4 +39,48 @@ class PagesController extends Controller
     {
         return view('Login');
     }
+    
+    function indexlogin(){
+        return view('indexlogin');
+    }
+
+    function home(){
+        return view('home');
+    }
+
+    function admin(){
+        return view('admin');
+    }
+
+    function about(){
+        return view('about');
+    }
+
+    function about2(){
+        return view('about2');
+    }
+
+    function login(){
+        return view('login');
+    }
+
+    function registrasi(){
+        return view('registrasi');
+    }
+
+    function editnews(){
+        return view('editnews');
+    }
+
+    function verifyadmin(){
+        return view('verifyadmin');
+    }
+
+    function verifylist(){
+        return view('verifylist');
+    }
+
+    function editproduct(){
+        return view('editproduct');
+    }
 }
