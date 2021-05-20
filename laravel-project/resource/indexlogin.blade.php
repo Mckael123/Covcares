@@ -7,6 +7,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>HomePage</title>
     <link rel="stylesheet" href={{ asset('css/home.css') }}>
+    <link rel="shortcut icon" href="/img/HomePageLOGO.png" type="image/x-icon">
 </head>
 
 <body>

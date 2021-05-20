@@ -7,6 +7,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>About Covcare</title>
     <link rel="stylesheet" href={{ asset('css/about.css') }}>
+    <link rel="shortcut icon" href="/img/HomePageLOGO.png" type="image/x-icon">
 
 </head>
 
